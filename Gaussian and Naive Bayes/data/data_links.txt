@@ -1,0 +1,4 @@
+http://archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer-wisconsin/
+http://archive.ics.uci.edu/ml/machine-learning-databases/iris/
+http://archive.ics.uci.edu/ml/machine-learning-databases/spambase/
+http://archive.ics.uci.edu/ml/machine-learning-databases/00331/
